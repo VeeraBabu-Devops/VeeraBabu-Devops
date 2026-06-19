@@ -49,3 +49,5 @@ GitHub: github.com/VeerBabu-Devops
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VeeraBabu-Devops&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VeeraBabu-Devops&layout=compact)
+
+![Profile Views](https://komarev.com/ghpvc/?username=VeeraBabu-Devops)
