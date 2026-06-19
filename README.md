@@ -1,6 +1,6 @@
 # Hi, I'm Veera Babu 👋
 
-## DevOps Engineer
+DevOps Engineer passionate about AWS Cloud, CI/CD Automation, Containerization, and Infrastructure as Code.
 
 ### Skills
 
