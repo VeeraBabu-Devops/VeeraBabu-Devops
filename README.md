@@ -13,11 +13,32 @@ DevOps Engineer passionate about AWS Cloud, CI/CD Automation, Containerization, 
 - SonarQube
 - Nexus
 
+## Certifications
+
+- DevOps Certification – FLM
+- Oracle SQL – Great Learning
+- Linux – GeeksforGeeks
+  
+## Currently Learning
+
+- Kubernetes
+- Advanced Terraform
+- AWS DevOps Services
+- Monitoring & Observability
+  
 ## Featured Projects
 
 - 🚀 LMS Deployment on AWS
 - ⚙️ Jenkins CI/CD Pipeline
 - ☁️ S3 + CloudFront Hosting
+
+## Project Screenshots
+
+- Jenkins Pipeline
+- SonarQube Dashboard
+- Nexus Repository
+- LMS Login Page
+- Docker Containers
 
 ### Contact
 
